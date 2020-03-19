@@ -1,0 +1,59 @@
+
+body{
+    margin: 10;
+    text-align: center;
+   
+    
+    
+    font-family: verdana,sans-serif;
+    
+}
+.top-container{
+    background-color: hsl(194, 69%, 63%);
+    position: relative;
+
+    padding-top: 50 50;
+}
+.middle-container{
+    background-color: #c4ecf8;
+    padding-bottom: 1px;
+}
+.bottom-container{
+    background-color: rgb(147, 230, 236);
+    padding: 50px 0 20px;
+}
+h1{
+    
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #2a7bf5;
+
+}
+h2{
+    font-family: 'Rochester', cursive;
+    font-family: 'Sacramento', cursive;
+    font-size: 2rem;
+    color:#2a7bf5;
+
+
+.h3{
+    margin-top: 10;
+    font-size: 50px;
+}
+
+
+.skill-row{
+    width: 50%;
+}
+
+.robo{
+    float: left;
+    width: 25%;
+}
+.profile{
+    padding-top: 50px;
+}
+.contact-me{
+    padding-top: 100%;
+}
